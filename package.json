@@ -1,0 +1,19 @@
+{
+  "name": "angular-restrict-number",
+  "version": "1.0.0",
+  "description": "Directive for restricting inputs ngModel to only allow numbers",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Jack Hanford <jackhanford@gmail.com> (http://jackhanford.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanford/angular-restrict-number.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanford/angular-restrict-number/issues"
+  },
+  "peerDependencies": {
+    "angular": ">=1.5 <2"
+  }
+}
