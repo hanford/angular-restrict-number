@@ -1,6 +1,6 @@
 {
   "name": "angular-restrict-number",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Directive for restricting inputs ngModel to only allow numbers",
   "main": "index.js",
   "scripts": {},
