@@ -3,7 +3,7 @@
 [![NPM][dl-icon]][dl-url]
 
 #### Installation  
-Installation is super easy, simply add the dependencies to your build and add ```<input type="text" ng-model=".." ng-number/>``` to your your input.
+Installation is super easy, simply add the dependency to your build and add ```<input type="text" ng-model=".." ng-number/>``` to your your input
 
 ```
 # use npm
