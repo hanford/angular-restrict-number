@@ -1,9 +1,9 @@
 module.exports = require('angular')
-  .module('ngNumbersOnly', [])
-  .directive('ngNumbersOnly', ngNumbersOnly)
+  .module('ngNumber', [])
+  .directive('ngNumber', ngNumber)
   .name
 
-function ngNumbersOnly () {
+function ngNumber () {
   return {
     require: 'ngModel',
     link: function (scope, element, attrs, ngModelCtrl) {
